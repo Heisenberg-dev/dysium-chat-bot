@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="930a1402-6127-41a7-844c-5fc0e2070f73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dysium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/administrator_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/economic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/event_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/private_room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/chat_mutes.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/private.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/roles.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/staff.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/user_profiles.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/users.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/voice_mutes.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/warns.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dysium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/dysium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cogs/administrator_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cogs/economic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cogs/event_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cogs/private_room.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cogs/shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cogs/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/chat_mutes.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/private.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/roles.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/staff.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/user_profiles.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/users.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/voice_mutes.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/warns.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dysium.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bot.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OESH6gv1bLkY6rdJNIG56EvyV4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Университет/4 семестр/ООП Java/Курсовая работа/Проект чат-бот/dysium/dysium",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="930a1402-6127-41a7-844c-5fc0e2070f73" name="Changes" comment="" />
+      <created>1681124160706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681124160706</updated>
+      <workItem from="1681124164104" duration="5084000" />
+      <workItem from="1681140869343" duration="1555000" />
+      <workItem from="1681160350279" duration="609000" />
+      <workItem from="1681209566294" duration="7211000" />
+      <workItem from="1681232819533" duration="288000" />
+      <workItem from="1681242458771" duration="3603000" />
+      <workItem from="1681247626572" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dysium$config.coverage" NAME="config Coverage Results" MODIFIED="1681132721919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dysium$bot.coverage" NAME="bot Coverage Results" MODIFIED="1681231051135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dysium$administrator_bot.coverage" NAME="administrator_bot Coverage Results" MODIFIED="1681127315183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cogs" />
+  </component>
+</project>
